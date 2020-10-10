@@ -1,4 +1,9 @@
 """
+UW Python Certificate - py230
+Lesson 03 - Web Protocols
+Student: Michael List
+Activity: Socket Adventure
+
 serve.py
 
 Instantiates a socket-adventure `Server` and serves it on a specified

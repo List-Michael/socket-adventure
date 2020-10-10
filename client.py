@@ -1,3 +1,10 @@
+'''
+UW Python Certificate - py230
+Lesson 03 - Web Protocols
+Student: Michael List
+Activity: Socket Adventure
+'''
+
 import socket
 import sys
 
